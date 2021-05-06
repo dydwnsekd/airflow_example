@@ -10,7 +10,7 @@ default_args= {
     'start_date': days_ago(1),
     'retries': 0,
     'catchup': False,
-    'retry_delaty': timedelta(minutes=5),
+    'retry_delay': timedelta(minutes=5),
 }
 
 def simple_query():

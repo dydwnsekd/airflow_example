@@ -9,4 +9,7 @@ HiveServer2Hook_auth_LDAP.py
 https://dydwnsekd.tistory.com/51  
 
 firstDAG.py  
-https://dydwnsekd.tistory.com/54  
+https://dydwnsekd.tistory.com/54
+
+jinja_example.py
+https://dydwnsekd.tistory.com/62

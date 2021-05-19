@@ -40,7 +40,7 @@ dag = DAG(
         'templated_test', 
         default_args=default_args, 
         schedule_interval="@daily",
-    )
+)
 
 t1 = BashOperator(
     task_id='bash_templated',

@@ -1,0 +1,10 @@
+{
+    "a_user": "a",
+    "a_password": "password",
+    "a_secret": "secret",
+    "a_passwd": "passwd",
+    "a_authorization": "authorization",
+    "a_api_key": "api_key",
+    "a_apikey": "apikey",
+    "a_access_token": "access_token"
+}

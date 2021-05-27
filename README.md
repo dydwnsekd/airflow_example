@@ -11,5 +11,11 @@ https://dydwnsekd.tistory.com/51
 firstDAG.py  
 https://dydwnsekd.tistory.com/54
 
-jinja_example.py
+jinja_example.py  
 https://dydwnsekd.tistory.com/62
+
+dag_run.conf.py  
+https://dydwnsekd.tistory.com/64
+
+Variables.py  
+https://dydwnsekd.tistory.com/65

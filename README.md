@@ -20,6 +20,9 @@ https://dydwnsekd.tistory.com/64
 Variables.py  
 https://dydwnsekd.tistory.com/65
 
+sensor.py  
+https://dydwnsekd.tistory.com/76
+
 customOperator  
 TeamshookHook.py,  TeamsWebhookOperator.py  
 https://dydwnsekd.tistory.com/69

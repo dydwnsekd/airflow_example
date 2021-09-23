@@ -33,3 +33,6 @@ https://dydwnsekd.tistory.com/75
 SlackWebhookOperator_example.py  
 https://dydwnsekd.tistory.com/105
 
+xcom.py  
+https://dydwnsekd.tistory.com/107
+
